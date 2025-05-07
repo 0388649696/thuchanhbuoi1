@@ -1,0 +1,4 @@
+nguyenduongg24ct@gmail.com
+Thông báo từ Python
+Đây là nội dung email gửi tự động bằng Python.
+Chúc mừng sinh nhật bạn dương
